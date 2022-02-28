@@ -17,3 +17,6 @@ The title element has been changed to a descriptive title.
 
 ## 🔗 Links
 <a href="https://stephrrcodes.github.io/Horiseon-Code-Refractor/">Horiseon-Code-Refractor</a>
+
+### Screenshot
+<img src="assets/images/full-page-screenshot.png">
